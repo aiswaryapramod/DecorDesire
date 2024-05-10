@@ -1,0 +1,81 @@
+.overlay-text h1 {
+  font-weight: 700;
+  font-size: 65px;
+  padding-left: 110px;
+}
+
+.home-link {
+  color: black !important;
+  text-decoration: none !important;
+
+  padding: 40px;
+}
+.home-btn {
+  padding: 7px;
+  background: transparent;
+  border: 1px solid #b28c8c;
+  border-radius: 5px;
+}
+
+.home-banner {
+  position: relative;
+
+  .banner-image {
+    width: 100%;
+    height: 90svh;
+  }
+
+  .banner-image-mob {
+    display: none;
+  }
+
+  .text-container {
+    position: absolute;
+    top: 27%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+
+    .banner-text {
+      font-weight: lighter;
+      font-size: 2rem;
+      margin: 0;
+      font-size: 54px;
+      color: black;
+
+      @media screen and (max-width: 768px) {
+        font-size: 1.5rem;
+      }
+
+      @media screen and (max-width: 645px) {
+        font-size: 1.2rem;
+      }
+    }
+  }
+}
+
+@media (max-width: 645px) {
+  .banner-image-mob {
+    display: block !important;
+  }
+  .banner-image {
+    display: none !important;
+  }
+  .banner-image-mob {
+    width: 100%;
+  }
+  .banner-text {
+    font-size: 26px;
+  }
+  .home-banner .text-container {
+    width: 100%;
+    top: 23%;
+  }
+  .banner-text {
+    font-size: 27px !important;
+  }
+  .home-btn {
+    padding: 5px;
+  }
+}

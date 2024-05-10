@@ -1,0 +1,41 @@
+.navbar {
+  width: 100%;
+  background-color: rgb(0, 0, 0) !important;
+  color: #fff;
+  padding: 4px 20px;
+  z-index: 1000;
+  display: contents;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  img {
+    width: 47%;
+    filter: brightness(0.5);
+    cursor: pointer;
+    padding-left: 26px;
+  }
+
+  a {
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+  }
+}
+
+.navbar-nav {
+  gap: 32px;
+}
+
+.container-fluid {
+  padding: 7px !important;
+}
+
+@media (max-width: 645px) {
+  .navbar-nav {
+    margin-top: 60px;
+    gap: 20px;
+  }
+  .navbar {
+    img {
+      width: 34%;
+    }
+  }
+}

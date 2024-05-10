@@ -1,0 +1,36 @@
+.profile-container {
+  max-width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  display: flex;
+  gap: 340px;
+  box-shadow: rgba(116, 156, 206, 0.16) 0px 10px 36px 0px,
+    rgba(126, 186, 216, 0.06) 0px 0px 0px 1px;
+  padding: 87px;
+}
+
+.profile-info {
+  h2 {
+    margin-bottom: 40px;
+  }
+  span {
+    font-weight: 600;
+    margin-right: 20px;
+  }
+}
+
+.profile-logout {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  height: 39px;
+  padding: 4px;
+
+  button {
+    background-color: transparent;
+    border: navajowhite;
+    font-size: 14px;
+    width: 15%;
+    text-align: center;
+    font-weight: 700;
+  }
+}

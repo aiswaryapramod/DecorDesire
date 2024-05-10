@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/files/elephantshowpiece_5_54a90f9c-2679-4566-8f98-76b6f278bb14_360x.jpg?v=1698674015",
+    "price": "10,850",
+    "title": "Elephant Bust With Tuskers Decor Sculpture",
+    "rating": "⭐⭐⭐⭐"
+  },
+  {
+    "id": 2,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/products/DSC6202_360x.jpg?v=1681651892",
+    "price": "1,890",
+    "title": "Lunar Crystal Glass Decor Bowl",
+    "rating": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "id": 3,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/files/RestingBuddhaShowpiece_1_360x.jpg?v=1710386095",
+    "price": "2,450",
+    "title": "Resting Buddha Showpiece For Room Decor",
+    "rating": "⭐⭐⭐"
+  },
+  {
+    "id": 4,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/products/DSC_3852_66d83cf6-22b1-4b63-81c7-91f2bd469131_360x.jpg?v=1677837051",
+    "price": "650",
+    "title": "Diamond Glass Pedestal Vase 7 Inch",
+    "rating": "⭐⭐⭐⭐"
+  },
+  {
+    "id": 5,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/files/WhiteElephantShowpiece_8_360x.jpg?v=1694773172",
+    "price": "2,990",
+    "title": "Mother Baby White Elephant Decor Showpiece",
+    "rating": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "id": 6,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/products/1_aa953237-0cd5-4f0c-8b4f-604fbcf8416e_360x.jpg?v=1687439420",
+    "price": "850",
+    "title": "Vintage Tissue Box",
+    "rating": "⭐⭐⭐⭐"
+  },
+  {
+    "id": 7,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/files/DSCF3863_360x.jpg?v=1689316133",
+    "price": "5,150",
+    "title": "Victorian Wall Mirror Gold Large",
+    "rating": "⭐⭐⭐⭐⭐"
+  },
+  {
+    "id": 8,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/files/rosewallhanging_1_360x.webp?v=1697034622",
+    "price": "850",
+    "title": "Rose Hanging Decoration Set Of 4",
+    "rating": "⭐⭐"
+  },
+  {
+    "id": 9,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/products/DSC03940_0d1808b0-838e-4243-894e-96b576bff799_360x.jpg?v=1617101402",
+    "price": "990",
+    "title": "Wooden Rickshaw",
+    "rating": "⭐⭐⭐"
+  },
+  {
+    "id": 10,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/files/crownshowpiece_2_360x.jpg?v=1698648978",
+    "price": "3,290",
+    "title": "Royal Crown Decor Showpiece",
+    "rating": "⭐⭐⭐"
+  },
+  {
+    "id": 11,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/files/CatShowpiece_2_360x.jpg?v=1694841644",
+    "price": "2,290",
+    "title": "Cat Sculpture Gold For Home Decor",
+    "rating": "⭐⭐⭐"
+  },
+  {
+    "id": 12,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/files/DeerShowpieceBlack_1_360x.webp?v=1695899889",
+    "price": "5,195",
+    "title": "Black Reindeer Showpiece Large",
+    "rating": "⭐⭐⭐"
+  },
+  {
+    "id": 13,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/files/wallart_19_360x.jpg?v=1703327968",
+    "price": "2,890",
+    "title": "Minimalist 3D Wall Decor Artwork 20x16 Inch",
+    "rating": "⭐⭐⭐",
+    "category": "Wall decor"
+  },
+  {
+    "id": 14,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/files/DSC5635_d90c5f6b-a270-4913-a8c0-183ffc63c026_360x.jpg?v=1703314180",
+    "price": "6,695",
+    "title": "Japandi 3D Plaster Texture Framed Wall Art 32x24 Inch",
+    "rating": "⭐⭐⭐",
+    "category": "Wall decor"
+  },
+  {
+    "id": 15,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/files/wallart_3_10944c72-6540-4c39-b6ef-0af699f4f42c_360x.jpg?v=1703334398",
+    "price": "5,150",
+    "title": "Geometric 3D Abstract Wall Art Black White 31x24 Inch",
+    "rating": "⭐⭐⭐",
+    "category": "Wall decor"
+  },
+  {
+    "id": 16,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/files/wallart_21_360x.jpg?v=1703328072",
+    "price": "3,350",
+    "title": "Tropic Embossed And Printed Canvas Wall Art Frame 23x17 Inch",
+    "rating": "⭐⭐⭐",
+    "category": "Wall decor"
+  },
+  {
+    "id": 17,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/products/IMG_90041_360x.jpg?v=1674650367",
+    "price": "2,550",
+    "title": "Modern Art Framed Wall Art Set Of 3 18x13 Inch",
+    "rating": "⭐⭐⭐",
+    "category": "Wall decor"
+  },
+  {
+    "id": 18,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/products/DSC9299_360x.jpg?v=1673003417",
+    "price": "1,550",
+    "title": "Winter Gloves Hand Embroidered Hoop Wall Hanging 10 Inch",
+    "rating": "⭐⭐⭐",
+    "category": "Wall decor"
+  },
+  {
+    "id": 19,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/products/decor134_360x.png?v=1635249805",
+    "price": "1,050",
+    "title": "Home Showpiece",
+    "rating": "⭐⭐⭐",
+    "category": "Wall decor"
+  },
+  {
+    "id": 20,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/products/DSC06550_bff408f7-5e06-4747-b075-8399e9725804_360x.jpg?v=1660740987",
+    "price": "26,600",
+    "title": "VERA Black 27 Piece Dinner Set For 6",
+    "rating": "⭐⭐⭐",
+    "category": "Dinner set"
+  },
+  {
+    "id": 21,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/files/dinnerset_17_360x.webp?v=1697202665",
+    "price": "18,450",
+    "title": "Luxe Moroccan 28-Piece Ceramic Dinnerware For 6 Dark Green",
+    "rating": "⭐⭐⭐",
+    "category": "Dinner set"
+  },
+  {
+    "id": 22,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/files/dinnerset_11_0dd720cc-0093-4b02-8674-c2e54fa3e923_360x.jpg?v=1695350585",
+    "price": "12,490",
+    "title": "Printed Square Plates 24 Piece Dinner Set For 6",
+    "rating": "⭐⭐⭐",
+    "category": "Dinner set"
+  },
+  {
+    "id": 23,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/files/DINNERSET_069768b8-6b93-4c0d-b9e7-5545d443a825_360x.jpg?v=1696573634",
+    "price": "15,280",
+    "title": "Blue 26 Piece Dinnerware Set For 6",
+    "rating": "⭐⭐⭐",
+    "category": "Dinner set"
+  },
+  {
+    "id": 24,
+    "image": "https://cdn.shopify.com/s/files/1/2690/0106/products/DSC07883_cf225d3c-a9b7-4c7b-98c5-c96dc6c25a72_360x.jpg?v=1647001391",
+    "price": "20,260",
+    "title": "Pink Marble 26 Piece Dinnerware For 6",
+    "rating": "⭐⭐⭐",
+    "category": "Dinner set"
+  }
+]

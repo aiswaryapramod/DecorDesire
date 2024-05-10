@@ -1,0 +1,73 @@
+.needs-validation {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.register-btn {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 79%;
+  a {
+    color: white;
+    text-decoration: none;
+  }
+}
+
+.register-page {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  max-width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  margin-top: 80px;
+}
+
+.register-head {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.password-toggle-icon img {
+  width: 10%;
+}
+
+.register-lab {
+  width: 80%;
+}
+
+.password-input-container {
+  position: relative;
+}
+
+.password-toggle-icon {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  display: flex;
+  justify-content: end;
+  width: 50%;
+}
+.form-control {
+  padding-right: 30px;
+}
+
+@media (max-width: 645px) {
+  .register-page {
+    max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 0px;
+  }
+  .register-lab {
+    width: 100%;
+  }
+  .form-label {
+    margin-bottom: 0.5rem;
+    font-size: 13px;
+  }
+}
